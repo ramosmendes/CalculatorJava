@@ -1,1 +1,0 @@
-Projeto de uma calculadora utilizando a linguagem JAVA.
